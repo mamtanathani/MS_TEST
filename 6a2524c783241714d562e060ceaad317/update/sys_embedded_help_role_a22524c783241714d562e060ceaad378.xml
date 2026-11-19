@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_snc_ms_test.admin" name="x_snc_ms_test.admin">a22524c783241714d562e060ceaad35a</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>mamta.sharma</sys_created_by>
+        <sys_created_on>2026-11-18 16:18:59</sys_created_on>
+        <sys_id>a22524c783241714d562e060ceaad378</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a22524c783241714d562e060ceaad35a</sys_name>
+        <sys_package display_value="MS_TEST" source="x_snc_ms_test">6a2524c783241714d562e060ceaad317</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MS_TEST">6a2524c783241714d562e060ceaad317</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a22524c783241714d562e060ceaad378</sys_update_name>
+        <sys_updated_by>mamta.sharma</sys_updated_by>
+        <sys_updated_on>2026-11-18 16:18:59</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

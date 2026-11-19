@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Applications developed in GIT" language="en" table="x_snc_ms_test_applications_developed_in_git">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Applications developed in GIT</label>
+            <language>en</language>
+            <name>x_snc_ms_test_applications_developed_in_git</name>
+            <plural>Applications developed in GITs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mamta.sharma</sys_created_by>
+            <sys_created_on>2026-11-18 16:22:21</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Applications developed in GIT</sys_name>
+            <sys_package display_value="MS_TEST" source="x_snc_ms_test">6a2524c783241714d562e060ceaad317</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MS_TEST">6a2524c783241714d562e060ceaad317</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_ms_test_applications_developed_in_git__en</sys_update_name>
+            <sys_updated_by>mamta.sharma</sys_updated_by>
+            <sys_updated_on>2026-11-18 16:22:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
